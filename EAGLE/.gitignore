@@ -18,6 +18,10 @@ eagle.epf
 *.pro
 *.job
 
+#ULP Logs
+*.scr
+
+
 # CAM files
 *.$$$
 *.cmp
