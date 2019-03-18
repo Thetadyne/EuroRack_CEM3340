@@ -1,0 +1,44 @@
+Partlist
+
+Exported from MainBoard_V0.5.brd at 3/17/2019 8:42 PM
+
+EAGLE Version 9.2.2 Copyright (c) 1988-2018 Autodesk, Inc.
+
+Assembly variant: 
+
+Part     Value              Package            Library             Position (mil)        Orientation
+
+C1       0.001?F            C050-025X075       rcl                 (650 950)             R90
+C2       0.1?F              C050-025X075       rcl                 (430 1420)            R0
+C3       0.001?F            C050-025X075       rcl                 (810 950)             R270
+C4       0.01?F             C050-025X075       rcl                 (725 2890)            R180
+C5       0.001?F            C050-025X075       rcl                 (1035 1800)           R90
+C6       0.01?F             C050-025X075       rcl                 (1148 1799)           R90
+CV1      WQP-PJ301M-12_JACK WQP-PJ301M-12_JACK thonkiconn          (1180 3890)           MR90
+CV2      WQP-PJ301M-12_JACK WQP-PJ301M-12_JACK thonkiconn          (1180 3480)           MR90
+CV3      WQP-PJ301M-12_JACK WQP-PJ301M-12_JACK thonkiconn          (1180 3030)           MR90
+HARD_S   WQP-PJ301M-12_JACK WQP-PJ301M-12_JACK thonkiconn          (1180 1150)           MR90
+IC1      CEM3340            DIL16              CEM                 (725 1950)            R270
+J8                          2X8-SHROUDED_LOCK  SparkFun-Connectors (725 260)             R270
+LIN_FM   WQP-PJ301M-12_JACK WQP-PJ301M-12_JACK thonkiconn          (270 700)             MR270
+PWM      WQP-PJ301M-12_JACK WQP-PJ301M-12_JACK thonkiconn          (270 1150)            MR270
+R1       360K?              0207/10            rcl                 (1231 2301)           R270
+R2       100K?              0207/10            rcl                 (725 3730)            R0
+R3       100K?              0207/10            rcl                 (725 3570)            R180
+R4       100K?              0207/10            rcl                 (725 3330)            R180
+R5       1M?                0207/10            rcl                 (840 1420)            R0
+R6       470?               0207/10            rcl                 (725 3170)            R0
+R7       1M?                0207/10            rcl                 (1339 2301)           R90
+R8       10K?               0207/10            rcl                 (725 3990)            R180
+R9       600?               0207/10            rcl                 (210 1600)            R90
+R10      5.6K?              0207/10            rcl                 (348 1796)            R90
+R11      20K?               3386W              bourns              (1190 2700)           R180
+R12      10K?               3386W              bourns              (250 2695)            R180
+R13      24K?               0207/10            rcl                 (252 2197)            R270
+R14      1.8K?              0207/10            rcl                 (1014 2300)           R270
+R15      1.5M?              0207/10            rcl                 (1122 2302)           R270
+R16      470?               0207/10            rcl                 (1283 1694)           R270
+SAWTOOTH WQP-PJ301M-12_JACK WQP-PJ301M-12_JACK thonkiconn          (270 3030)            MR270
+SOFT_S   WQP-PJ301M-12_JACK WQP-PJ301M-12_JACK thonkiconn          (1180 700)            MR90
+SQUARE   WQP-PJ301M-12_JACK WQP-PJ301M-12_JACK thonkiconn          (270 3890)            MR270
+TRIANGLE WQP-PJ301M-12_JACK WQP-PJ301M-12_JACK thonkiconn          (270 3460)            MR270
