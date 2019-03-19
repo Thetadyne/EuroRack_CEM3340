@@ -1,4 +1,2 @@
-# SynthMeetup
-This repository is to hold assets (e.g., design files, code, datasheets) for projects of the Synth Meetup.
-
-Inititally, we are working on a voltage-controlled oscillator.
+# SynthMeetupVCO-1
+This repository is to hold assets (e.g., design files, code, datasheets) for the first VCO project of the Freeside Atlanta Synth Meetup.
